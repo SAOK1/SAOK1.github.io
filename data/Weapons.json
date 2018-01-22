@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"用纸和笔就可以解决很多问题呢，不过大概没法做实验吧","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":121,"name":"草稿纸","note":"","params":[0,0,10,0,0,0,0,0],"price":1,"wtypeId":1},
+{"id":2,"animationId":6,"description":"有了计算器就可以做一些计算了呢","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":207,"name":"计算器","note":"","params":[0,0,10,5,0,0,5,0],"price":10,"wtypeId":2},
+{"id":3,"animationId":2,"description":"嗯，看来可以计算模拟了，查文献也更方便了","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":245,"name":"计算机","note":"","params":[0,0,50,30,30,20,30,0],"price":500,"wtypeId":3},
+{"id":4,"animationId":11,"description":"可以用来做简单的实验","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":178,"name":"试管","note":"","params":[0,0,5,0,20,0,0,0],"price":10,"wtypeId":4},
+{"id":5,"animationId":11,"description":"不管多么复杂的实验都可以搞定了呢","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":176,"name":"实验仪器","note":"","params":[0,200,30,0,100,0,0,0],"price":500,"wtypeId":5}
+]
